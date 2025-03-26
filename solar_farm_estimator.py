@@ -152,3 +152,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+st.write(" ")
+st.write(" ")
+st.write(" ")
+st.write(" ")
+st.write(" ")
+st.write(" ")
+st.write("Solar Farm Estimator © ¦ Created by Tom Loosley ¦ Published in 2025")
+st.markdown("Found a problem? <a href='mailto:loosleytom@gmail.com'>Report an issue</a>", unsafe_allow_html=True)
